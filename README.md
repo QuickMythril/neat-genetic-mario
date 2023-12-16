@@ -81,3 +81,12 @@ B19ED489 | CDD3C8C37322978CA8669B34BC89C804 | 6B47BB75D16514B6A476AA0C73A683A2A4
 [Tinkering]:http://togelius.blogspot.de/2016/04/the-differences-between-tinkering-and.html
 =======
 9. The NEAT control window will display and you can then click Start to begin training.
+
+
+
+## Modifications by Axel Grey (@ryudious)
+- Modernizations and improvements to various components of the project for better maintainability and efficiency.
+- Code restructuring and performance optimization.
+- Algorithmic enhancements, particularly in NEAT algorithm implementations.
+- Optimized memory usage and improved error handling and validation techniques.
+- Updated to be more user-friendly and adaptable, focusing on BizHawk emulator setup and configuration.
